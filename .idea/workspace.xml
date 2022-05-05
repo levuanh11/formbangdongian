@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8999c0a9-4153-4d48-9b19-76eb3659f4b2" name="Changes" comment="" />
+    <list default="true" id="8999c0a9-4153-4d48-9b19-76eb3659f4b2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,10 +17,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28jHlKz8BDJXqMwlUY4PexlVBlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -31,6 +37,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Acer/Desktop/form don gian&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -49,6 +56,13 @@
       <updated>1651723225048</updated>
       <workItem from="1651723226269" duration="2419000" />
       <workItem from="1651725667714" duration="6000" />
+      <workItem from="1651732209009" duration="334000" />
+      <workItem from="1651732715898" duration="16000" />
+      <workItem from="1651732764699" duration="20000" />
+      <workItem from="1651732805300" duration="71000" />
+      <workItem from="1651732883758" duration="162000" />
+      <workItem from="1651734692436" duration="36000" />
+      <workItem from="1651736566230" duration="53000" />
     </task>
     <servers />
   </component>
